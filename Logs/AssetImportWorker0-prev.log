@@ -1,0 +1,244 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.8f1 (507919d4fff5) revision 5273881'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.1052; Version 2009; 64bit' Language: 'en' Physical Memory: 16270 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.8f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/maxso/Documents/Unity Builds/Portals-master/Portals-master
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51922
+Successfully changed project path to: C:/Users/maxso/Documents/Unity Builds/Portals-master/Portals-master
+C:/Users/maxso/Documents/Unity Builds/Portals-master/Portals-master
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 37.62 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.8f1 (507919d4fff5)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/maxso/Documents/Unity Builds/Portals-master/Portals-master/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 Ti (ID=0x2486)
+    Vendor:   
+    VRAM:     8050 MB
+    Driver:   27.21.14.6230
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56128
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002287 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 28.89 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.888 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002291 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.581 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1545 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.9 MB.
+System memory in use after: 67.9 MB.
+
+Unloading 49 unused Assets to reduce memory usage. Loaded Objects now: 1960.
+Total: 3.810500 ms (FindLiveObjects: 0.145400 ms CreateObjectMapping: 0.038400 ms MarkObjects: 3.579000 ms  DeleteObjects: 0.047000 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scenes
+  artifactKey: Guid(05c0510dcad814ced8ea828288ac553e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(05c0510dcad814ced8ea828288ac553e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c025a1ba07bf902c3e6d352be480dee') in 0.004005 seconds
+  Import took 0.005602 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.197874 seconds.
+  path: Assets/Scenes/Recursion.unity
+  artifactKey: Guid(40f36befccc724c5e9940662df244db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Recursion.unity using Guid(40f36befccc724c5e9940662df244db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd34613fc42d81d445308dc728bfff8e') in 0.006987 seconds
+  Import took 0.008937 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.197583 seconds.
+  path: Assets/Scenes/Two Worlds.unity
+  artifactKey: Guid(0d4d53604ed9c4858827702c6d7fa7fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Two Worlds.unity using Guid(0d4d53604ed9c4858827702c6d7fa7fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37f0215561ad77b2059c0d87f9addafb') in 0.002270 seconds
+  Import took 0.004228 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.043409 seconds.
+  path: Assets/Scenes/Slicing.unity
+  artifactKey: Guid(dfff69910e2b84bcb80a0766da682e91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Slicing.unity using Guid(dfff69910e2b84bcb80a0766da682e91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e432498cf0d2ab0821d3384c8be42b63') in 0.002355 seconds
+  Import took 0.004260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.995688 seconds.
+  path: Assets/Scenes/Physics.unity
+  artifactKey: Guid(e334a307dac5441b0938ec436b149cd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Physics.unity using Guid(e334a307dac5441b0938ec436b149cd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8409d002abb0190a4aa46683817c5c3') in 0.002340 seconds
+  Import took 0.004217 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 256.328344 seconds.
+  path: Assets/Scripts/Core/Shaders
+  artifactKey: Guid(a07a87d41098443a89d0eab9e9cc8b80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Core/Shaders using Guid(a07a87d41098443a89d0eab9e9cc8b80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe8890de20ca09f3137a573369916de5') in 0.002193 seconds
+  Import took 0.004279 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.948200 seconds.
+  path: Assets/Scripts/Core/PortalTraveller.cs
+  artifactKey: Guid(906cf3fd207e5450784f73a2d4b57b4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Core/PortalTraveller.cs using Guid(906cf3fd207e5450784f73a2d4b57b4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11b4b8825f3f99f9400c70089a409b0b') in 0.013889 seconds
+  Import took 0.015823 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.188095 seconds.
+  path: Assets/Prefabs/Arch Portal.prefab
+  artifactKey: Guid(bfcb13c8b95e6411d8174fbe153e4bb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Arch Portal.prefab using Guid(bfcb13c8b95e6411d8174fbe153e4bb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '007b2926e099cb54e6fd5b0428639bd4') in 0.194615 seconds
+  Import took 0.196827 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/Prefabs/Physics Cube.prefab
+  artifactKey: Guid(5780f48356625424bb18426d94187569) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Physics Cube.prefab using Guid(5780f48356625424bb18426d94187569) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26c23a94d969698de6fd20fc871ef8e7') in 0.129371 seconds
+  Import took 0.131167 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/Prefabs/Arch Portal.prefab
+  artifactKey: Guid(bfcb13c8b95e6411d8174fbe153e4bb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Arch Portal.prefab using Guid(bfcb13c8b95e6411d8174fbe153e4bb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '007b2926e099cb54e6fd5b0428639bd4') in 0.007804 seconds
+  Import took 0.009270 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000114 seconds.
+  path: Assets/Prefabs/Player.prefab
+  artifactKey: Guid(5101aee443b6c4e028aae23d799c5fa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Player.prefab using Guid(5101aee443b6c4e028aae23d799c5fa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01ae22c02c7426ce5daa5b53df039736') in 0.008223 seconds
+  Import took 0.009776 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Assets/Prefabs/Cloud Core.prefab
+  artifactKey: Guid(8192c6b5871b74d87948a0be99ffd902) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Cloud Core.prefab using Guid(8192c6b5871b74d87948a0be99ffd902) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a4d92a9f67e77753bf8a7818dba809b') in 0.003321 seconds
+  Import took 0.004681 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000085 seconds.
+  path: Assets/Prefabs/Cloud Desert.prefab
+  artifactKey: Guid(9868f5c60ccee4d61a7bea8af72cef43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Cloud Desert.prefab using Guid(9868f5c60ccee4d61a7bea8af72cef43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f849abc297461eb68efab5ca784773e') in 0.127735 seconds
+  Import took 0.129347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/Prefabs/Simple Portal.prefab
+  artifactKey: Guid(ce71ddc64223549ed8fc19f77f5948b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Simple Portal.prefab using Guid(ce71ddc64223549ed8fc19f77f5948b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba15eef344672920bfee45370b459f20') in 0.007147 seconds
+  Import took 0.008815 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000098 seconds.
+  path: Assets/Prefabs/Cloud Desert.prefab
+  artifactKey: Guid(9868f5c60ccee4d61a7bea8af72cef43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Cloud Desert.prefab using Guid(9868f5c60ccee4d61a7bea8af72cef43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f849abc297461eb68efab5ca784773e') in 0.007129 seconds
+  Import took 0.008612 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/Prefabs/Cloud.prefab
+  artifactKey: Guid(e7a05d8725ebe4825a4403648a70420f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Cloud.prefab using Guid(e7a05d8725ebe4825a4403648a70420f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4a994225394732984c6413bca709af5') in 0.010965 seconds
+  Import took 0.012489 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001886 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.518 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1536 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.7 MB.
+System memory in use after: 70.8 MB.
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 1972.
+Total: 3.683100 ms (FindLiveObjects: 0.129600 ms CreateObjectMapping: 0.040600 ms MarkObjects: 3.497000 ms  DeleteObjects: 0.015100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004765 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.70 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.559 seconds
+Platform modules already initialized, skipping
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 0.70 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2073 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 97.7 MB.
+System memory in use after: 90.9 MB.
+
+Unloading 104 unused Assets to reduce memory usage. Loaded Objects now: 2450.
+Total: 6.284400 ms (FindLiveObjects: 0.180000 ms CreateObjectMapping: 0.061300 ms MarkObjects: 3.634000 ms  DeleteObjects: 2.408500 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
